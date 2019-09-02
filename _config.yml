@@ -1,9 +1,10 @@
+theme : minima
 title: Halis Şimşek | Github
 author: halissimsek
 email: info@halissimsek.com.tr
 description: > # this means to ignore newlines until "baseurl:"
 Halis Şimşek Github Sayfası
-theme : minima
+
 
 # social links
 twitter_username: halissimsek44
